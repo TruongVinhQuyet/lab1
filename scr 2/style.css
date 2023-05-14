@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+body{
+    background-color: #0E4A67;
+}
+.nav-next{
+    display: flex;
+}
+.picture{
+    padding-top: 90px;
+    padding-left: 80px;
+}
+.box{
+    padding-top: 55px;
+    padding-left: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    font-size: 18px;
+}
+.menu{
+    padding-top: 25px;
+}
+menu input{
+    padding: 10px;
+    width: auto;
+}
